@@ -33,7 +33,9 @@ Preliminary tech candidates for services are below, lined up with the correspond
 # Services
 
 [Web Client](https://github.com/iankietzman-voeracity/Web-Client) - Vite + React
+
 [Gateway](https://github.com/iankietzman-voeracity/Gateway) - Fastify + Mercurius
+
 In-Memory Storage - Redis
 
 # Devops and Deploys
