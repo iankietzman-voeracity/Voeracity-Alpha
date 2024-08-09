@@ -32,7 +32,7 @@ Preliminary tech candidates for services are below, lined up with the correspond
 
 # Services
 
-# Deveops and Deploys
+# Devops and Deploys
 All services are containerized with Docker to provide robust scaling options at both ends off the spectrum and ease of dev environment setup.
 
 Details vary by service, but in general commits to main that pass automated testing will be auto-deployed to a test environment. Production deploys are done with a manual green light.
