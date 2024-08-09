@@ -1,5 +1,5 @@
 # About This Repo and Document
-This README serves as a hub for development of a standardized testing training platform called Voeracity, described in more detail below. High level system concepts will be addressed here. Individual services will have their own documentation with more granularity.
+This README serves as a hub for development of a standardized testing training platform called Voeracity, described in more detail below. High level system concepts will be addressed here. Individual services will have their own documentation with more granularity and can be found below in the Services section.
 
 # Project Status / Kanban Board
 [Project Kanban Board](https://voeracity.atlassian.net/jira/software/projects/V0/boards/1), access available upon request.
@@ -31,6 +31,10 @@ Preliminary tech candidates for services are below, lined up with the correspond
 ![system_tech](https://github.com/user-attachments/assets/1a120dc0-c988-4947-a72b-5545511afc9f)
 
 # Services
+
+[Web Client](https://github.com/iankietzman-voeracity/Web-Client) - Vite + React
+[Gateway](https://github.com/iankietzman-voeracity/Gateway) - Fastify + Mercurius
+In-Memory Storage - Redis
 
 # Devops and Deploys
 All services are containerized with Docker to provide robust scaling options at both ends off the spectrum and ease of dev environment setup.
