@@ -5,7 +5,7 @@ This README serves as a hub for development of a standardized testing training p
 [Project Kanban Board](https://voeracity.atlassian.net/jira/software/projects/V0/boards/1), access available upon request.
 
 # Product Description / Functional Specifications
-Voeracity is a standardized test training product. Users can learn Exam material, assess learning progress, and take practice tests. In addition to the traditional format of approaching Section and Modules in a linear format, an algorithmically driven “Guided Practice” will be available. 
+Voeracity is a standardized test training product. Users can learn exam material, assess learning progress, and take practice tests. In addition to the traditional format of approaching section and subsections in a linear format, an algorithmically driven “Guided Practice” will be available. 
 
 # Wireframes
 ![wireframes_alpha](https://github.com/user-attachments/assets/e52e3790-5f6a-4be0-8f4f-35d891a7f8c4)
