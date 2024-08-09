@@ -12,7 +12,7 @@ Lo fi wireframes of the required basic functionality:
 
 ![wireframes_alpha](https://github.com/user-attachments/assets/e52e3790-5f6a-4be0-8f4f-35d891a7f8c4)
 
-Note that some views (Sign Up, Log In, Account) have omitted because they are BORING!
+Note that some views (Sign Up, Log In, Account) have omitted because they are BORING!!!
 
 # Primary Abstractions
 ![primary-abstractions](https://github.com/user-attachments/assets/32e7d7d1-e122-40c4-918b-ee4ab34d8e8f)
