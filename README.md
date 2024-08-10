@@ -22,13 +22,13 @@ Pretty straightforward stuff for the time being. These things are always easy at
 # Services Architecture
 Let's preface this section by saying this architecture is clearly overkill. A monolith on a single server is all that's really needed to get this off the ground and would normally be the advisable way to attack this. However. In this case. I've got some AWS credits to burn and am craving complexity, so we're going to lean in to the loosely-coupled, distributed microservices model, wave our hands a bit, and say something about how well we're positioned to identify bottlenecks and scale efficiently.
 
-![system_design_1_0](https://github.com/user-attachments/assets/4a0971a9-048b-4539-8967-906ee7a88590)
+![system_design_1_1](https://github.com/user-attachments/assets/fbdcb2f0-bd38-42a2-990a-45e83c6b47d8)
 
 Services and communication channels in the above diagram will turn green as they are brought online. 
 
 Preliminary tech candidates for services are below, lined up with the corresponding piece in the services diagram above. Solutions may change during the development process.
 
-![system_tech](https://github.com/user-attachments/assets/1a120dc0-c988-4947-a72b-5545511afc9f)
+![system_tech_1](https://github.com/user-attachments/assets/d1ff311f-ac1a-4a8d-8e0c-383c32a4cc90)
 
 # Services
 
